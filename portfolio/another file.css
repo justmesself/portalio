@@ -91,11 +91,9 @@ header nav ul li a:hover {color: #000000;}
 .about h3 { font-size: 1.3rem;max-width: 720px;text-align: left;}
 .about b{text-align:left;font-size: 2rem; }
 
-footer { background-color: #1b121b;color: #fafafa;text-align:center;padding: 30px 0;
-.contact-card b { display: block; font-size: 18px;margin-bottom: 10px;}
-
+footer { background-color: #1b121b;color: #fafafa;text-align:center;padding: 30px 0; 
+.contact-card { display: block; font-size: 18px;margin-bottom: 10px;}}
 .social-icons a { color: white; margin: 0 10px; font-size: 24px; text-decoration: none; transition: color 0.3s ease;}
-
-.social-icons a:hover { color: #00aced; }}
+.social-icons a:hover { color: #00aced; }
 
 @media (max-width: 768px) {.projects {flex-direction: column;align-items: center;}}
